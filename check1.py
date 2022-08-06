@@ -12,3 +12,4 @@ d = {1:2, 'Name':'Someone'}
 # test
 # this is a comment
 print(d)
+print(2+2)
