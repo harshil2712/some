@@ -11,3 +11,4 @@ d = {1:2, 'Name':'Someone'}
 # this is a comment
 # test
 # this is a comment
+print(2+2)
